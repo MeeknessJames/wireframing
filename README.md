@@ -45,6 +45,39 @@ Functionality shows interactive elements such as buttons, search bars, forms, et
 
 Each of these elements works together to create a wireframe that not only guides the design process but also centers the user experience. 
 
+# Types of Wireframes
+
+Wireframes can be broadly categorized into two types based on their level of detail and purpose in the design process: **low-fidelity** and **high-fidelity** wireframes.
+
+## Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are basic sketches or layouts that focus on structure rather than design. They help teams brainstorm and validate ideas quickly.
+
+- **Purpose**: Early-stage planning and exploration.
+- **Appearance**: Simple shapes, grey boxes, placeholder text, no styling.
+- **Use Case**: Brainstorming, wireframing workshops, early feedback sessions.
+
+**Example**:  
+A grayscale wireframe with blocks representing image placement, lines for text, and no color or branding.
+
+## High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are detailed, polished mockups that closely resemble the final product. They show real content, design elements, and user interaction components.
+
+- **Purpose**: Final design validation, stakeholder approvals, development handoff.
+- **Appearance**: Full color, actual text/images, buttons, icons, branding.
+- **Use Case**: User testing, presenting to clients, front-end development reference.
+
+**Example**:  
+A mobile app mockup with real product images, fonts, icons, and working screens like Sign In, Home, and Reservations.
+
+# Identifying the Wireframe Type Used
+
+After analyzing the layout and design elements, the wireframe used in this project is a:
+
+**High-Fidelity Wireframe**
+This wireframe includes real UI elements such as buttons, actual images, styled text, and structured screens (e.g., Splash, Home, Sign In, Reservation). It visually communicates the final look and user interaction flow, making it suitable for user testing and guiding development.
+
 
 
 
