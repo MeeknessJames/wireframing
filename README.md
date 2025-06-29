@@ -78,6 +78,47 @@ After analyzing the layout and design elements, the wireframe used in this proje
 **High-Fidelity Wireframe**
 This wireframe includes real UI elements such as buttons, actual images, styled text, and structured screens (e.g., Splash, Home, Sign In, Reservation). It visually communicates the final look and user interaction flow, making it suitable for user testing and guiding development.
 
+# Wireframing Tools
+
+Wireframing can be done using a variety of tools, ranging from pen and paper to advanced digital platforms. The right tool depends on the stage of the design process, collaboration needs, and personal preference.
+
+## Popular Wireframing Tools
+
+Here are some widely used tools for creating wireframes:
+
+- **Figma**  
+  A cloud-based design and prototyping tool with powerful collaboration features. It allows real-time teamwork, component reuse, and interactive prototyping.
+
+- **Balsamiq**  
+  Known for its sketch-style, low-fidelity wireframes. Ideal for brainstorming and early ideation.
+
+- **Adobe XD**  
+  Offers both wireframing and interactive prototyping features with a clean interface and good integration with other Adobe tools.
+
+- **Sketch**  
+  A Mac-only design tool used for UI/UX design with strong plugin support and vector editing.
+
+- **Whimsical**  
+  Lightweight and fast, Whimsical is great for quick, low-fidelity wireframes and user flow diagrams.
+
+## Why Figma?
+
+Figma is especially powerful for wireframing because:
+
+- It's browser-based, so no installation is required.
+- It supports **real-time collaboration**, allowing multiple team members to work on a file together.
+- It offers both **low-fidelity and high-fidelity design capabilities**.
+- It allows for reusable components, which saves time and keeps designs consistent.
+- It integrates **prototyping features** for testing and simulating user interactions.
+
+Figma is ideal for teams and individuals who want to design, prototype, and iterate all in one place.
+
+
+
+
+
+
+
 
 
 
